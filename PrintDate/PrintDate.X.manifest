@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="PrintDate" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{845aa20b-673d-444f-a9d1-97d2d0597aa1}" progid="PrintDate.StandardAddInServer" threadingModel="Both" name="PrintDate.PrintDate.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="PrintDate.dll" hashalg="SHA1"></file>
+
+</assembly>
